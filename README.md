@@ -246,6 +246,8 @@ server.listen(8000);
 
 * Early stream examples and a deeper dive into streams can be found at [@substack](https://github.com/substack)'s [Stream Handbook](https://github.com/substack/stream-handbook).
 
+* Async Generator and Iterator examples from [2ality.com](http://2ality.com/2018/04/async-iter-nodejs.html)
+
 * [TC39 Proposal](https://github.com/tc39/proposal-async-iteration).
 
 * Node.js Support for [Symbol.asyncIterator](https://github.com/nodejs/readable-stream/issues/254).
