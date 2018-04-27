@@ -1,6 +1,6 @@
 {
   "name": "async-stream-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pipe ES6 Async Generators through Node.js Streams",
   "main": "index.js",
   "scripts": {
