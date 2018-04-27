@@ -254,4 +254,4 @@ server.listen(8000);
 
 ## License
 
-[MIT](https://github.com/MattMorgis/async-stream-generator/blob/master/LICENSE)
+[MIT](https://github.com/MattMorgis/async-stream-generator/blob/master/LICENSEd)
