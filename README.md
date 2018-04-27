@@ -1,6 +1,6 @@
 # async-stream-generator
 
-Pipe ES6 Async Generators through Node.js[Streams](https://nodejs.org/api/stream.html).
+Pipe ES6 Async Generators through Node.js [Streams](https://nodejs.org/api/stream.html).
 
 ## 10 Second Tutorial
 
