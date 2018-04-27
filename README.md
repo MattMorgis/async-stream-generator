@@ -4,7 +4,7 @@ Pipe ES6 Async Generators through Node.js [Streams](https://nodejs.org/api/strea
 
 ## 10 Second Tutorial
 
-`streamify` takes a
+`streamify` is a function that takes an async generator function and when invoked, returns a Readable Stream.
 
 ```javascript
 const fs = require("fs");
