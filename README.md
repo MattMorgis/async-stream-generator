@@ -1,6 +1,6 @@
 # async-stream-generator
 
-Pipe ES6 Async Generators through Node.js [Streams](https://nodejs.org/api/stream.html).
+Pipe ES6 Async Generators through Node.js[Streams](https://nodejs.org/api/stream.html).
 
 ## 10 Second Tutorial
 
@@ -18,7 +18,6 @@ async function* generator(stream) {
 
 const main = () => {
   const readStream = fs.createReadStream("path-to-data.json");
-
   streamify(generator(readStream)).pipe(process.stdout);
 };
 
