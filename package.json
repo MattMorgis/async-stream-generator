@@ -1,0 +1,27 @@
+{
+  "name": "async-stream-generator",
+  "version": "1.0.0",
+  "description": "Pipe ES6 Async Generators through Node.js Streams",
+  "main": "index.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattMorgis/async-stream-generator.git"
+  },
+  "keywords": [
+    "streams",
+    "async",
+    "generators",
+    "async",
+    "iterators",
+    "pipe"
+  ],
+  "author": "Matt Morgis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattMorgis/async-stream-generator/issues"
+  },
+  "homepage": "https://github.com/MattMorgis/async-stream-generator#readme"
+}
