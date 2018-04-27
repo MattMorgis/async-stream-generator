@@ -224,7 +224,7 @@ Using the same generators from above, we can `pipe()` the results to a writeable
 ```javascript
 const http = require("http");
 const fs = require("fs");
-const streamify = require("./node-stream-generators");
+const streamify = require("async-stream-generator");
 
 const server = http.createServer(async (req, res) => {
   const readStream = fs.createReadStream("./mock-data.json", {
