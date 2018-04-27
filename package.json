@@ -2,7 +2,7 @@
   "name": "async-stream-generator",
   "version": "1.0.0",
   "description": "Pipe ES6 Async Generators through Node.js Streams",
-  "main": "index.js"
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
