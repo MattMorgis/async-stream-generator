@@ -28,6 +28,8 @@ StreamGenerators.prototype._read = function(size) {
       } else {
         this.push(null);
       }
+    }).catch((e)=> {
+      this.emit("error", e);
     });
   } catch (e) {
     this.emit("error", e);
